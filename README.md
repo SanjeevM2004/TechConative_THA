@@ -81,7 +81,3 @@ Feel free to contribute to the project by adding more models, improving preproce
 ## License
 
 This project is licensed under the MIT License.
-
----
-
-Let me know if there are additional details or customization you’d like included in this README.
