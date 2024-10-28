@@ -37,7 +37,7 @@ This project requires a dataset with columns labeled as `SalePrice` (target vari
 1. Open `data_analysis.ipynb` in Jupyter Notebook:
 
    ```bash
-   data_analysis.ipynb
+   jupyter notebook data_analysis.ipynb
    ```
 
 2. Run each cell to execute the code for:
@@ -58,6 +58,7 @@ The dataset is preprocessed by:
 Several regression models are applied to predict house prices, including:
 - **Random Forest Regressor**
 - **Ridge Regression**
+- **Linear Regression**
 
 Each model’s performance is measured with RMSE and R² score, allowing for comparison of prediction accuracy.
 
@@ -66,8 +67,9 @@ Each model’s performance is measured with RMSE and R² score, allowing for com
 After running the notebook, you should see model evaluation metrics similar to this:
 
 ```
-Random Forest - Root Mean Squared Error (RMSE): 24000.00, R^2 Score: 0.85
-Ridge Regression - Root Mean Squared Error (RMSE): 28000.00, R^2 Score: 0.80
+Random Forest - Root Mean Squared Error: 27865.39, R^2 Score: 0.90
+Ridge Regression - Root Mean Squared Error: 29837.39, R^2 Score: 0.88
+Linear Regression - Root Mean Squared Error: 29478.46, R^2 Score: 0.89
 ```
 
 ## Contributing
@@ -80,4 +82,8 @@ Feel free to contribute to the project by adding more models, improving preproce
 
 ## License
 
+<<<<<<< HEAD
 This project is licensed under the MIT License.
+=======
+This project is licensed under the MIT License.
+>>>>>>> 209a402 (update commit)
