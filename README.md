@@ -37,7 +37,7 @@ This project requires a dataset with columns labeled as `SalePrice` (target vari
 1. Open `data_analysis.ipynb` in Jupyter Notebook:
 
    ```bash
-   jupyter notebook data_analysis.ipynb
+   data_analysis.ipynb
    ```
 
 2. Run each cell to execute the code for:
