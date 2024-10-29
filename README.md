@@ -57,9 +57,9 @@ Each model’s performance is measured with RMSE and R² score, allowing for com
 After running the notebook, you should see model evaluation metrics similar to this:
 
 ```
-Random Forest - Root Mean Squared Error: 27865.39, R^2 Score: 0.90
-Ridge Regression - Root Mean Squared Error: 29837.39, R^2 Score: 0.88
-Linear Regression - Root Mean Squared Error: 29478.46, R^2 Score: 0.89
+Random Forest - Root Mean Squared Error: 27665.42, R^2 Score: 0.90
+Ridge Regression - Root Mean Squared Error: 36084.08, R^2 Score: 0.83
+Linear Regression - Root Mean Squared Error: 30879.94, R^2 Score: 0.88
 ```
 
 ## Contributing
