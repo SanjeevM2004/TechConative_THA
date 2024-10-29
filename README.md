@@ -69,11 +69,3 @@ Feel free to contribute to the project by adding more models, improving preproce
 1. Fork the repository.
 2. Make your changes.
 3. Create a pull request.
-
-## License
-
-<<<<<<< HEAD
-This project is licensed under the MIT License.
-=======
-This project is licensed under the MIT License.
->>>>>>> 209a402 (update commit)
