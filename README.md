@@ -18,13 +18,9 @@ This project requires a dataset with columns labeled as `SalePrice` (target vari
 1. Clone the repository (or download the files if not hosted on GitHub):
 
    ```bash
-   git clone https://github.com/yourusername/house-sales-prediction.git
-   cd house-sales-prediction
+   git clone https://github.com/SanjeevM2004/TechConative_THA
+   cd TechConative_THA
    ```
-
-2. Place your dataset file in the data folder and ensure it contains `SalePrice` and other relevant features.
-
-## Usage
 
 ### Running the Analysis
 
