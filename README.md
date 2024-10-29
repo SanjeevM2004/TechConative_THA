@@ -22,13 +22,7 @@ This project requires a dataset with columns labeled as `SalePrice` (target vari
    cd house-sales-prediction
    ```
 
-2. Install the required Python packages:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Place your dataset file (e.g., `data.csv`) in the project folder and ensure it contains `SalePrice` and other relevant features.
+2. Place your dataset file in the data folder and ensure it contains `SalePrice` and other relevant features.
 
 ## Usage
 
@@ -37,7 +31,7 @@ This project requires a dataset with columns labeled as `SalePrice` (target vari
 1. Open `data_analysis.ipynb` in Jupyter Notebook:
 
    ```bash
-   jupyter notebook data_analysis.ipynb
+   data_analysis.ipynb
    ```
 
 2. Run each cell to execute the code for:
